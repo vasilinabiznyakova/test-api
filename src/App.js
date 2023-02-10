@@ -55,7 +55,7 @@ class App extends Component {
     const { articles } = this.state;
     return (
       <div>
-        articles.length > 0 ? <ArticleList articles={articles} /> : null
+        zzzzz
       </div>
     );
   }
